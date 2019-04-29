@@ -3,7 +3,7 @@ import firebase from 'firebase/app'
 import 'firebase/database'
 
 const firebaseApp = firebase.initializeApp({
-    apiKey: "AIzaSyDpV4rO1SGtHHT1M642rf8go3OVZoKJ9qY",
+    apiKey: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     authDomain: "chatbox-35f83.firebaseapp.com",
     databaseURL: "https://chatbox-35f83.firebaseio.com",
 })
